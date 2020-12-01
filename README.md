@@ -11,7 +11,8 @@
 
 ## Description
 
-[Deployed Application](https://dashboard.heroku.com/apps/protected-caverns-31589)
+[Deployed Application](https://protected-caverns-31589.herokuapp.com/)
+
 <br />
 
 ![Home Screen](./public/assets/images/HomeScreen.png)
